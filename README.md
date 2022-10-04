@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maximiliano Diaz
 - 👀 I’m interested in Videogames, programming languages and spoken languages
 - 🌱 I’ve recently finished Microverse's full-stack develompment program
-- 🖥 [My Portfolio](https://github.com/mistermaxis/Maximiliano-Diaz)
+- 🖥 [My Portfolio](https://mistermaxis.github.io/Maximiliano-Diaz/)
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mistermaxis/)
 
 <!---
